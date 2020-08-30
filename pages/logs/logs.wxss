@@ -1,0 +1,17 @@
+.log-list {
+  display: flex;
+  flex-direction: column;
+  padding: 40rpx;
+}
+.log-item {
+  margin: 10rpx;
+}
+.back-index {
+  width: 400rpx;
+  height: 80rpx;
+  margin: 30rpx auto;
+  border: 1rpx solid rgba(9, 109, 9, 0.849);
+  background-color: #F3F3F3;
+  line-height: 80rpx;
+  text-align: center;
+}
